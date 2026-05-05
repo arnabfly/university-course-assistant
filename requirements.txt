@@ -1,0 +1,9 @@
+streamlit
+chromadb
+ollama
+spacy
+PyPDF2
+python-docx
+networkx
+matplotlib
+pandas
